@@ -1,0 +1,32 @@
+[
+  {
+    "name": "one piece character selection website",
+    "image": "./assets/one-piece-character-selection-website.png",
+    "tags": ["Responsivo", "Menu interativo", "Animações"],
+    "link": "https://one-piece-character-selection-website.vercel.app/"
+  },
+  {
+    "name": "Página One Piece A Seríe",
+    "image": "./assets/serie-page.png",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://serie-page.vercel.app/"
+  },
+  {
+    "name": "PSN Store",
+    "image": "./assets/psn-store.png",
+    "tags": ["Typescript", "Freamework", "Angular"],
+    "link": "https://psn-store-six.vercel.app/"
+  },
+  {
+    "name": "Pokedex",
+    "image": "./assets/pokedex.png",
+    "tags": ["Javascript","Responsivo", "API"],
+    "link": "https://pokedex-hazel-seven.vercel.app/"
+  },
+  {
+    "name": "light and dark theme form",
+    "image": "./assets/light-and-dark-theme-form.png",
+    "tags": ["HTML", "CSS", "Javascript"],
+    "link": "https://light-and-dark-theme-form-hj74rubl5-daniel777-hubs-projects.vercel.app/"
+  }
+]
